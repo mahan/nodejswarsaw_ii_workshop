@@ -17,11 +17,6 @@ Install required libraries:
 $ npm install
 ```
 
-Install required libraries:
-```
-$ npm install
-```
-
 Start workshop Node.js program:
 
 ```
