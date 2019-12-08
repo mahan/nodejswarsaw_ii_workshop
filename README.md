@@ -17,3 +17,5 @@ Install required libraries:
 $ npm install
 ```
 
+Instructions on running step6.js:
+https://nodejswarsaw.com/yqhpr/
