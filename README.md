@@ -17,8 +17,3 @@ Install required libraries:
 $ npm install
 ```
 
-Start workshop Node.js program:
-
-```
-$ node index.js
-```
