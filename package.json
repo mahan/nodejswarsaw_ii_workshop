@@ -1,0 +1,23 @@
+{
+  "name": "nodejswarsaw_ii_workshop",
+  "version": "1.0.0",
+  "description": "This is the code for the workshop event of Node.js Warsaw, II on the 4th of December 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahan/nodejswarsaw_ii_workshop.git"
+  },
+  "author": "hz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahan/nodejswarsaw_ii_workshop/issues"
+  },
+  "homepage": "https://github.com/mahan/nodejswarsaw_ii_workshop#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
